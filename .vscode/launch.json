@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Django",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:/Users/Goognu/Downloads/asset_master/asset-manager/asset_management/manage.py",
+            "args": [
+                "runserver"
+            ],
+            "django": true,
+            "autoStartBrowser": false
+        },
+        // {
+        //     "name": "Python: Django",
+        //     "type": "debugpy",
+        //     "request": "launch",
+        //     "program": "C:\\Users\\Goognu\\Downloads\\asset_master\\asset-manager\\asset_management\\manage.py",
+        //     "args": [
+        //         "runserver"
+        //     ],
+        //     "django": true,
+        //     "justMyCode": true
+        // }
+    ]
+}
